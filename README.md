@@ -1,4 +1,5 @@
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HOLA,%20SOY%20%20FELIPE&textBg=false&animation=twinkling&reversal=false&desc=Soy%20estudiante%20de%20ingenieria%20de%20software&descAlignY=64&section=header&fontAlignY=44
+![Cápsula personalizada](https://capsule-render.vercel.app/api?type=ondulando&altura=300&color=gradiente&text=HOLA,%20SOY%20%20FELIPE&textBg=false&animation=twinkling&reversal=false&desc=Soy%20estudiante%20de%20ingenieria%20de%20software&descAlignY=64&section=header&fontAlignY=44)
+
 
 
 # 💫 About Me:
