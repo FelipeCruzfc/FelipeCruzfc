@@ -2,6 +2,8 @@
 
 ![Cápsula personalizada](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HOLA,%20SOY%20%20FELIPE&textBg=false&animation=twinkling&reversal=false&desc=Soy%20estudiante%20de%20ingenieria%20de%20software&descAlignY=64&section=header&fontAlignY=44)
 
+![un texto](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HOLA,%20SOY%20%20FELIPE&textBg=false&animation=twinkling&reversal=false&desc=Soy%20estudiante%20de%20ingenieria%20de%20software&descAlignY=64&section=header&fontAlignY=44)
+
 Soy un estudiante apasionado de **Ingeniería de Software** 🚀. Me encanta aprender, explorar nuevas tecnologías y resolver problemas desafiantes. 🌟
 
 ---
