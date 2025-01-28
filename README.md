@@ -14,4 +14,4 @@ Soy un estudiante apasionado de **Ingeniería de Software** 🚀. Me encanta apr
 
 ## ¡Sígueme!
 - 📚 [Mi portafolio](https://felipecruzfc.github.io)
-- 💼 [LinkedIn](https://linkedin.com/in/felipecruzfc)
+- 💼 [LinkedIn]([https://linkedin.com/in/felipecruzfc](https://www.linkedin.com/in/felipe-cruz-351115213/))
